@@ -6,5 +6,7 @@
 }
 
 .cabeçalho{
-    background-color: var(#FFFFFF);
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
 }
